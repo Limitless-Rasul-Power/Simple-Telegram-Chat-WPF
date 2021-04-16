@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\WpfApp Simple Chat\WpfApp Simple Chat\bin\Debug\WpfApp Simple Chat.exe.config
+C:\Users\Admin\source\repos\WpfApp Simple Chat\WpfApp Simple Chat\bin\Debug\WpfApp Simple Chat.exe
+C:\Users\Admin\source\repos\WpfApp Simple Chat\WpfApp Simple Chat\bin\Debug\WpfApp Simple Chat.pdb
+C:\Users\Admin\source\repos\WpfApp Simple Chat\WpfApp Simple Chat\obj\Debug\WpfApp Simple Chat.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WpfApp Simple Chat\WpfApp Simple Chat\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\WpfApp Simple Chat\WpfApp Simple Chat\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\WpfApp Simple Chat\WpfApp Simple Chat\obj\Debug\WpfApp Simple Chat_MarkupCompile.cache
+C:\Users\Admin\source\repos\WpfApp Simple Chat\WpfApp Simple Chat\obj\Debug\WpfApp Simple Chat_MarkupCompile.lref
+C:\Users\Admin\source\repos\WpfApp Simple Chat\WpfApp Simple Chat\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\WpfApp Simple Chat\WpfApp Simple Chat\obj\Debug\WpfApp Simple Chat.g.resources
+C:\Users\Admin\source\repos\WpfApp Simple Chat\WpfApp Simple Chat\obj\Debug\WpfApp_Simple_Chat.Properties.Resources.resources
+C:\Users\Admin\source\repos\WpfApp Simple Chat\WpfApp Simple Chat\obj\Debug\WpfApp Simple Chat.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WpfApp Simple Chat\WpfApp Simple Chat\obj\Debug\WpfApp Simple Chat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WpfApp Simple Chat\WpfApp Simple Chat\obj\Debug\WpfApp Simple Chat.exe
+C:\Users\Admin\source\repos\WpfApp Simple Chat\WpfApp Simple Chat\obj\Debug\WpfApp Simple Chat.pdb
